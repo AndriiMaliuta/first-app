@@ -1,0 +1,10 @@
+{
+  "id": "testapp1",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "testapp1",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
